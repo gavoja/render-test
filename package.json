@@ -1,0 +1,18 @@
+{
+  "name": "render-test",
+  "version": "0.1.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gavoja/render-test.git"
+  },
+  "author": "Michal Kochel",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
